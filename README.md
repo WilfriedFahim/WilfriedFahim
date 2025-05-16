@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, je suis Wilfried
 
-<!--
-**WilfriedFahim/WilfriedFahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Front-End en reconversion, je construis chaque jour mes compétences en JavaScript, React, Next.js et Tailwind CSS.
 
-Here are some ideas to get you started:
+🚀 Objectif : intégrer ma première mission tech ou mon premier poste junior d’ici juin 2025.  
+🎯 Projets actuels : Portfolio, clones de sites, mini app mobile, SaaS EdgeMind (coach IA pour traders).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Stack en cours d’apprentissage
+
+- React.js / Next.js (App Router)
+- Tailwind CSS
+- GitHub + Vercel
+- FastAPI (à venir)
+
+## 🔗 Liens utiles
+
+- [Mon portfolio](https://portfolio-wilfried-chi.vercel.app/)
+- [Mon LinkedIn](http://www.linkedin.com/in/wilfriedkouassi-dev)
