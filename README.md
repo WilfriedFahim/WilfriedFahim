@@ -7,9 +7,11 @@ Développeur Front-End en reconversion, je construis chaque jour mes compétence
 
 ## 💻 Stack en cours d’apprentissage
 
+- JavaScript (ES6+) 
 - React.js / Next.js (App Router)
 - Tailwind CSS
-- GitHub + Vercel
+- Git & GitHub + Vercel
+- Python (à venir)
 - FastAPI (à venir)
 
 ## 🔗 Liens utiles
