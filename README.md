@@ -11,8 +11,8 @@ Développeur Front-End en reconversion, je construis chaque jour mes compétence
 - React.js / Next.js (App Router)
 - Tailwind CSS
 - Git & GitHub + Vercel
-- Python (à venir)
-- FastAPI (à venir)
+- Python
+- FastAPI
 
 ## 🔗 Liens utiles
 
