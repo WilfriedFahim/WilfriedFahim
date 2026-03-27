@@ -39,7 +39,7 @@
 
 ---
 
-**Actuellement en recherche active** d’une première opportunité junior en Fullstack / Backend Python (stage, alternance ou CDI).  
+**Actuellement en recherche active** d’une opportunité en Fullstack / Backend Python (CDI ou CDD).  
 Ouvert aux missions freelance ou ESN.
 
 Merci de passer sur mon profil ! N’hésite pas à me contacter si un projet t’intéresse.
