@@ -1,20 +1,45 @@
-# 👋 Hello, je suis Wilfried
+# 👋 Hello, je suis Wilfried Kouassi
 
-Développeur Front-End en reconversion, je construis chaque jour mes compétences en JavaScript, React, Next.js et Tailwind CSS.
+**Développeur Fullstack Junior** passionné par la construction d'applications web modernes et d'outils intelligents pour les traders.
 
-🚀 Objectif : intégrer ma première mission tech ou mon premier poste junior d’ici juin 2025.  
-🎯 Projets actuels : Portfolio, clones de sites, mini app mobile, SaaS EdgeMind (coach IA pour traders).
+### 💡 À propos de moi
+- Je construis des applications complètes : frontend React/Next.js + backend FastAPI.
+- Fort intérêt pour le **trading** et les outils data → je développe **EdgeMind**, un SaaS coach IA pour traders intraday.
+- Autodidacte rigoureux, j’apprends chaque jour de nouvelles technologies tout en appliquant des bonnes pratiques (code propre, tests, Docker…).
 
-## 💻 Stack en cours d’apprentissage
+### 🛠️ Stack Technique
 
-- JavaScript (ES6+) 
-- React.js / Next.js (App Router)
-- Tailwind CSS
-- Git & GitHub + Vercel
-- Python
-- FastAPI
+**Frontend**  
+- React.js & Next.js (App Router)  
+- TypeScript  
+- Tailwind CSS  
+- Vercel (déploiement)
 
-## 🔗 Liens utiles
+**Backend & Data**  
+- Python  
+- FastAPI  
+- Bases de données (PostgreSQL en cours)  
+- Git & GitHub
 
-- [Mon portfolio](https://portfolio-wilfried-chi.vercel.app/)
-- [Mon LinkedIn](http://www.linkedin.com/in/wilfriedkouassi-dev)
+**Autres**  
+- JavaScript (ES6+)  
+- IA & automatisation (en lien avec EdgeMind)
+
+### 🔥 Projets phares
+
+- **Portfolio** — Site vitrine moderne avec Next.js et Tailwind.  
+  → [Voir le site](https://portfolio-wilfried-chi.vercel.app/)
+
+*photo à venir*
+
+### 📫 Me contacter
+- [LinkedIn](http://www.linkedin.com/in/wilfriedkouassi-dev)  
+- [Portfolio](https://portfolio-wilfried-chi.vercel.app/)  
+- Email : kouassi.wilfried.pro@gmail.com
+
+---
+
+**Actuellement en recherche active** d’une première opportunité junior en Fullstack / Backend Python (stage, alternance ou CDI).  
+Ouvert aux missions freelance ou ESN.
+
+Merci de passer sur mon profil ! N’hésite pas à me contacter si un projet t’intéresse.
